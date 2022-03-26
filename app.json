@@ -6,7 +6,7 @@
 		"subtitles",
 		"muxing"
 	],
-	"repository": "https://github.com/hotmoon6/Subtitle-Muxer",
+	"repository": "https://github.com/hotmoon6/Subtitle-Muxer-Bot-1/tree/Tellybots",
 	"formation": {
 		"worker": {
 			"quantity": 1,
