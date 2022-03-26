@@ -7,7 +7,7 @@
         "subtitles",
         "muxing"
     ],
-    "repository": "https://github.com/Tellybots/video-subtitle-merger",
+    "repository": "https://github.com/hotmoon6/video-subtitle-merger",
     "website": "https://t.me/tellybots_4u",
     "success_url": "https://t.me/tellybots_4u",
     "env": {
